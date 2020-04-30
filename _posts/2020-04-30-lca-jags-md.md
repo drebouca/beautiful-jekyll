@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: lca-jags.md
+title: lca-jags
 ---
 # Tutorial for Latent Class Analysis with JAGS
 
